@@ -1,0 +1,3 @@
+A*: (['S', 'A', 'C', 'G'], 6)
+UCS: ('S->A->C->G', 6)
+Overestimated: (['S', 'B', 'G'], 9)
